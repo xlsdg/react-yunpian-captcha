@@ -56,5 +56,5 @@
   },
   "source": "src/yunpian.jsx",
   "unpkg": "dist/yunpian.min.js",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
